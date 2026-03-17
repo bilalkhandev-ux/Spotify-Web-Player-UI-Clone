@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Spotify Clone - Web Player
 
 A web-based music player built with vanilla JavaScript, HTML, and CSS. This is a Spotify-like music player that allows you to browse and play songs from your local music library.
@@ -139,4 +138,3 @@ Spotify/
 
 Bilal Afzal
 
->>>>>>> 55b4c8412e4d178d299883c902a85a1cbcb3b8a4
